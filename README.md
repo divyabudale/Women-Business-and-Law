@@ -28,6 +28,8 @@ For this project, I wanted to understand the Women, Business and Law to study ge
 The notebook available here showcases work related to the above questions.
 
 ## Results <a name = "results"></a>
+The main findings of the code can be found at the post available [here](https://medium.com/@divyabudale/are-we-doing-enough-for-women-empowerment-6426200569d2)
+
 
 ## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
 Must give credit to World Bank (https://wbl.worldbank.org/en/wbl-data) for the data. 
