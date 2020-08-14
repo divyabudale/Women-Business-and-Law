@@ -17,12 +17,12 @@ For this project, I wanted to understand the Women, Business and Law to study ge
 
 1. What is the average WBL Index over the Region between 2015-2019
 2. Which region made the most progress between 2015-2019?
-3. Which are the top 10 Economy that made the most progress?
 4. Number of Economy per Region with over 90 WBL INDEX as of 2019
 5. Which countries in each Region are the best and worst for a women?
-6. Analyzing the factors related to the WBL INDEX
 7. Which indicators have the largest gap to fill?
 8. In which indicator have the economies introducing the most reform?
+9. Analyzing the factors related to the WBL INDEX
+10. How many countries need to step up in each indicator?
 
 ## File Description <a name = "files"></a>
 The notebook available here showcases work related to the above questions.
